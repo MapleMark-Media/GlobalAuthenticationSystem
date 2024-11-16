@@ -1,0 +1,23 @@
+{
+  "name": "globalauthenticationsystem",
+  "version": "1.0.0",
+  "description": "Project to manage authentication for internal applications, should be usable across all applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapleMark-Media/GlobalAuthenticationSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MapleMark-Media/GlobalAuthenticationSystem/issues"
+  },
+  "homepage": "https://github.com/MapleMark-Media/GlobalAuthenticationSystem#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
