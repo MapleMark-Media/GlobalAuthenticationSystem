@@ -1,3 +1,7 @@
+**/prisma/database*
+prisma/migrations
+src/config
+
 # Logs
 logs
 *.log
